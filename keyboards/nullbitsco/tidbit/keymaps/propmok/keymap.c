@@ -13,6 +13,7 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
+//This Dir is located on GitHub - github.com/propmok/qmk_firmware
 #include QMK_KEYBOARD_H
 // Define layer names
 #define _STOR 0
